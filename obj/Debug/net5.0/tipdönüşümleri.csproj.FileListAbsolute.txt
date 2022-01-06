@@ -1,0 +1,16 @@
+C:\Users\nugay\Desktop\pratikler\tipdönüşümleri\bin\Debug\net5.0\tipdönüşümleri.exe
+C:\Users\nugay\Desktop\pratikler\tipdönüşümleri\bin\Debug\net5.0\tipdönüşümleri.deps.json
+C:\Users\nugay\Desktop\pratikler\tipdönüşümleri\bin\Debug\net5.0\tipdönüşümleri.runtimeconfig.json
+C:\Users\nugay\Desktop\pratikler\tipdönüşümleri\bin\Debug\net5.0\tipdönüşümleri.runtimeconfig.dev.json
+C:\Users\nugay\Desktop\pratikler\tipdönüşümleri\bin\Debug\net5.0\tipdönüşümleri.dll
+C:\Users\nugay\Desktop\pratikler\tipdönüşümleri\bin\Debug\net5.0\ref\tipdönüşümleri.dll
+C:\Users\nugay\Desktop\pratikler\tipdönüşümleri\bin\Debug\net5.0\tipdönüşümleri.pdb
+C:\Users\nugay\Desktop\pratikler\tipdönüşümleri\obj\Debug\net5.0\tipdönüşümleri.csproj.AssemblyReference.cache
+C:\Users\nugay\Desktop\pratikler\tipdönüşümleri\obj\Debug\net5.0\tipdönüşümleri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nugay\Desktop\pratikler\tipdönüşümleri\obj\Debug\net5.0\tipdönüşümleri.AssemblyInfoInputs.cache
+C:\Users\nugay\Desktop\pratikler\tipdönüşümleri\obj\Debug\net5.0\tipdönüşümleri.AssemblyInfo.cs
+C:\Users\nugay\Desktop\pratikler\tipdönüşümleri\obj\Debug\net5.0\tipdönüşümleri.csproj.CoreCompileInputs.cache
+C:\Users\nugay\Desktop\pratikler\tipdönüşümleri\obj\Debug\net5.0\tipdönüşümleri.dll
+C:\Users\nugay\Desktop\pratikler\tipdönüşümleri\obj\Debug\net5.0\ref\tipdönüşümleri.dll
+C:\Users\nugay\Desktop\pratikler\tipdönüşümleri\obj\Debug\net5.0\tipdönüşümleri.pdb
+C:\Users\nugay\Desktop\pratikler\tipdönüşümleri\obj\Debug\net5.0\tipdönüşümleri.genruntimeconfig.cache
